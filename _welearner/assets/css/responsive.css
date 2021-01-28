@@ -1,0 +1,426 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+    .topic-comp a {
+        font-size: 15px;
+     
+    }
+    .topic-comp-circular a {
+        font-size: 15px;
+        
+    }
+
+    .top-search > form input {
+        padding: 35px 165px 35px 35px;
+        font-size: 17px;
+    }
+    .course-header a {
+        font-size: 20px;
+
+    }
+    .course-lablel a {
+        font-size: 15px;
+     
+    }
+    .course-rate p.average-rating .dashicons {
+        font-size: 14px;
+    }
+    .author-name a {
+        font-size: 16px;
+     
+    }
+    .old-price p {
+        font-size: 18px;
+    }
+    .new-price p {
+        font-size: 18px;
+      
+    }
+    a.course-btn {
+        font-size: 15px;
+        padding: 11px 27px;
+    
+    }
+    a.popular-btn {
+        
+        font-size: 15px;
+        padding: 11px 27px;
+    }
+    .conter-content h1 {
+        font-size: 55px;
+       
+    }
+    .conter-content h4 {
+        font-size: 22px;
+      
+    }
+    .conter-content {
+        padding-left: 100px;
+    }
+    .testimonial-header-text {
+        margin-left: -135px;
+    }
+    .testimonial-footer-img img {
+        padding-right: 40px;
+    }
+    .creator-header-text p {
+        font-size: 18px;
+    }
+   
+    .our-team .social {
+
+        left: -92%;
+    }
+    .blog-area-header h1 {
+        font-size: 40px;
+      
+    }
+
+.banner-text h1 {
+
+    font-size: 40px;
+
+    }
+.banner-text-2 h1 {
+    font-size: 40px;
+    }
+    .testimonial-header h2 {
+        font-size: 40px;
+
+    }
+    .creator-header-text h1 {
+        font-size: 40px;
+     
+    }
+    .banner-text-2 a.btn {
+        margin-top: 50px;
+        font-size: 18px;
+      
+        padding: 14px 85px;
+    }
+    .banner-text a.btn {
+        font-size: 18px;
+      
+        padding: 14px 85px;
+        
+    }
+    .slider-components {
+        padding-left: 40px;
+    }
+  
+    .top-search > form button {
+       
+        font-size: 18px;
+        right: 9px;
+        top: 9px;
+        padding: 14px 46px;
+    }
+    .slider-text h1 {
+        font-size: 60px;
+    
+    }
+    .slider-text p {
+        font-size: 18px;
+    
+    }
+    
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .header-area {
+        background: #4640DE;
+    }
+    .mobile-logo-area {
+        background: #4640DE;
+    }
+    .top-button-area {
+       padding: 6px 0px;
+    }
+    .text-logo {
+        padding-top: 10px;
+    }
+    .top-search > form input {
+    
+        padding: 40px 180px 40px 40px;
+    }
+    .slider-components {
+        padding: 0 30px;
+    }
+    .slider-text h1 {
+        font-size: 55px;
+        
+        padding: 95px 0px 60px 0px;
+    }
+    .conter-content {
+        padding-left: 0px;
+        text-align: center;
+    }
+    .testimonial-header-text {
+        margin-left: 20px;
+    }
+    .testimonial-header-text {
+        margin-left: 34px;
+        margin-top: -74px;
+    }
+    .testimonial-footer-img  img:last-child {
+        padding-right: 0px;
+    }
+    .testimonial-footer-img  img:nth-child(4) {
+        padding-right: 0px;
+    }
+    .testimonial-footer-img img {
+        padding: 30px 45px;
+        width: 24%;
+    }
+    .creator-header-text h1 {
+       
+        padding: 0px 190px;
+    }
+    .footer-logo-area {
+        text-align: center;
+    }
+    .footer-logo-area ul {
+      
+        display: inline-flex;
+   
+    }
+    .footer-menu {
+        padding-left: 40px;
+    }
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .header-area {
+        background: #4640DE;
+    }
+    .mobile-logo-area {
+        background: #4640DE;
+    }
+    .top-button-area {
+       padding: 6px 0px;
+    }
+    .top-button-area .btn {
+  
+        font-size: 11px;
+        padding: 15px 18px;
+       
+    }
+    .top-button-area .login-btn {
+        color: #fff;
+     
+        padding: 0 18px 0 0;
+   
+    }
+    .img-logo {
+        padding-top: 15px;
+    }
+    .text-logo a {
+        font-size: 22px;
+      
+    }
+    .text-logo {
+        padding-top: 15px;
+    }
+    .slider-components {
+        padding: 0 15px;
+    }
+    .slider-text h1 {
+        font-size: 27px;
+        padding: 76px 0px 45px 0px;
+    }
+    .slider-text p {
+        font-size: 14px;
+    
+    }
+    .top-search > form button {
+  
+        font-size: 14px;
+        right: 7px;
+        top: 6px;
+        padding: 12px 20px;
+    }
+    .top-search > form input {
+        font-size: 12px;
+        padding: 27px 99px 27px 15px;
+    }
+    .top-search {
+        padding-bottom: 115px;
+    }
+    .popular-section-header h2 {
+        font-size: 25px;
+        
+    }
+    a.popular-btn {
+   
+        font-size: 12px;
+        padding: 8px 12px;
+    }
+    .topic-comp a {
+        font-size: 20px;
+        
+    }
+    .topic-comp-circular a {
+        font-size: 20px;
+     
+    }
+    .topicbox {
+        margin-bottom: 20px;
+    }
+    .course-section-header h2 {
+        font-size: 25px;
+       
+    }
+    a.course-btn {
+        font-size: 12px;
+        padding: 8px 12px;
+    }
+    .course-lablel a {
+        font-size: 14px;
+        
+    }
+    .course-rate p.average-rating .dashicons {
+        font-size: 13px;
+        padding-top: 4px;
+    }
+    .course-header a {
+        font-size: 22px;
+      
+    }
+    .author-name a {
+        font-size: 15px;
+
+    }
+    .new-price p {
+        font-size: 17px;
+     
+    }
+    .old-price p {
+        font-size: 17px;
+      
+    }
+    .watch-more a {
+     
+        padding: 8px;
+
+    }
+    .course-comp {
+       
+        margin-bottom: 30px;
+    }
+    .conter-content h4 {
+        font-size: 23px;
+      
+        padding: 0 25px;
+    }
+    .counter-area{
+        padding-bottom: 45px;
+    }
+    .conter-content h1 {
+        font-size: 60px;
+       
+    }
+    .conter-content {
+        padding-left: 0px;
+        text-align: center;
+    }
+    .testimonial-area{
+        padding-top: 65px;
+    }
+    .testimonial-header h2 {
+        font-size: 30px;
+        padding-right: 0px;
+
+    }
+    .testimonial-header-text h6 {
+        font-size: 16px;
+   
+    }
+    .testimonial-active{
+        padding-bottom: 60px;
+    }
+    .testimonial-header-text {
+        margin-left: 12px;
+        margin-top: -74px;
+    }
+    .creator-header-text h1 {
+        font-size: 30px;
+      
+        padding: 0px 50px;
+    }
+    .creator-header-text p {
+        font-size: 16px;
+    }
+    .our-team .social {
+
+        left: -96%;
+  
+    }
+    .blog-area-header h1 {
+        font-size: 30px;
+      
+        padding-right: 70px;
+    }
+    .testimonial-footer-img img {
+        padding: 20px 40px;
+        width: 49%;
+    }
+    .banner-text p {
+        padding: 0px 10px;
+    }
+    .banner-text h1 {
+        font-size: 28px;
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+    .banner-text a.btn {
+        font-size: 16px;
+       
+        padding: 14px 50px;
+        margin-top: 15px;
+    }
+    .banner-text-2 p {
+        padding: 0px 10px;
+    }
+    .banner-text-2 h1 {
+        font-size: 28px;
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+    .banner-text-2 a.btn {
+        font-size: 16px;
+       
+        padding: 14px 50px;
+        margin-top: 15px;
+    }
+    .banner-area{
+        padding-top: 10px;
+    }
+    .footer-logo-area {
+        text-align: center;
+    }
+    .footer-logo-area ul {
+      
+        display: inline-flex;
+   
+    }
+    .footer-menu {
+        padding-left: 0px;
+        text-align: center;
+    }  
+}
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
